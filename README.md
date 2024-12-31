@@ -1,7 +1,3 @@
-Here's a more refined and detailed version of your README content for the **"Implementation-of-ML-model-for-image-classification"** project:
-
----
-
 # **Implementation of Machine Learning Model for Image Classification**
 
 **Overview:**
@@ -95,11 +91,3 @@ We welcome contributions to this project! Whether you're interested in improving
 - **Keras**: For the deep learning functionalities used in building and training the CIFAR-10 model.
 
 ---
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This updated README content gives a clearer, more professional presentation of your project while maintaining a balance between technical details and user-friendliness.
